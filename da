@@ -2,7 +2,7 @@ aleo smart contract
 dies
 (نصب پیش نیازها )
 ---------------------------------------------------------------------
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | shh
 
 source $HOME/.cargo/env
 
